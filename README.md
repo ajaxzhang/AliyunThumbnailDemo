@@ -1,0 +1,2 @@
+# AliyunThumbnailDemo
+利用阿里云视频SDK生成视频缩略图
